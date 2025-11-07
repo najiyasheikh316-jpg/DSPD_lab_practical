@@ -114,3 +114,55 @@ int main() {
     }
     return 0;
 }
+// --- QUEUE MENU ---
+// 1. Insert an Element
+// 2. Delete an Element
+// 3. Demonstrate Overflow/Underflow
+// 4. Display Queue
+// 5. Exit
+// Enter your choice: 1
+// Enter character to insert: A
+
+// 'A' inserted into Queue.
+
+// --- QUEUE MENU ---
+// Enter your choice: 1
+// Enter character to insert: B
+
+// 'B' inserted into Queue.
+
+// --- QUEUE MENU ---
+// Enter your choice: 1
+// Enter character to insert: C
+
+// 'C' inserted into Queue.
+
+// --- QUEUE MENU ---
+// Enter your choice: 4
+
+// Current Queue: A B C
+
+// --- QUEUE MENU ---
+// Enter your choice: 2
+
+// 'A' deleted from Queue.
+
+// --- QUEUE MENU ---
+// Enter your choice: 4
+
+// Current Queue: B C
+
+// --- QUEUE MENU ---
+// Enter your choice: 3
+
+// --- Overflow Demonstration ---
+// Queue Overflow! Cannot insert 'X'
+
+// --- Underflow Demonstration ---
+// Queue Underflow! Nothing to delete.
+
+// --- QUEUE MENU ---
+// Enter your choice: 5
+
+Exiting program...
+
