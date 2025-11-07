@@ -103,4 +103,30 @@ int main() {
 
     return 0;
 }
+// Enter number of nodes: 5
+// Enter number of edges: 7
+// Enter edges (u v w):
+// 1 2 2
+// 1 3 4
+// 2 3 1
+// 2 4 7
+// 3 5 3
+// 4 5 1
+// 2 5 5
+// Enter starting node: 1
+
+// Edges in the MST:
+// 2 -- 3  cost = 1
+// 4 -- 5  cost = 1
+// 1 -- 2  cost = 2
+// 3 -- 5  cost = 3
+// Total cost of MST = 7
+
+// Shortest distances from node 1 in MST:
+// Node 1 : 0
+// Node 2 : 2
+// Node 3 : 3
+// Node 4 : 7
+// Node 5 : 6
+
 
