@@ -53,3 +53,29 @@ int main() {
 
     return 0;
 }
+// Enter number of students: 3
+
+// Enter details of student 1:
+// Name: Ayesha
+// Roll No: 101
+// Age: 19
+// Average Marks: 78.5
+
+// Enter details of student 2:
+// Name: Fatima
+// Roll No: 102
+// Age: 20
+// Average Marks: 88.0
+
+// Enter details of student 3:
+// Name: Zainab
+// Roll No: 103
+// Age: 18
+// Average Marks: 69.5
+// Students sorted in descending order of Average Marks:
+// ------------------------------------------------------
+// Name	RollNo	Age	AvgMarks
+// Fatima	102	20	88.00
+// Ayesha	101	19	78.50
+// Zainab	103	18	69.50
+
