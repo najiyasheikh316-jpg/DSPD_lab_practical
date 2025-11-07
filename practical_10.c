@@ -40,3 +40,7 @@ int main() {
 
     return 0;
 }
+// Enter source file name (e.g., input.txt): input.txt
+// Enter destination file name (e.g., output.txt): output.txt
+// File copied successfully from input.txt to output.txt.
+
