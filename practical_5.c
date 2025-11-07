@@ -96,3 +96,33 @@ int main() {
 
     return 0;
 }
+// Create the Binary Tree:
+// Enter data (-1 for no node): 10
+// Enter left child of 10:
+// Enter data (-1 for no node): 5
+// Enter left child of 5:
+// Enter data (-1 for no node): -1
+// Enter right child of 5:
+// Enter data (-1 for no node): 7
+// Enter left child of 7:
+// Enter data (-1 for no node): -1
+// Enter right child of 7:
+// Enter data (-1 for no node): -1
+// Enter right child of 10:
+// Enter data (-1 for no node): 15
+// Enter left child of 15:
+// Enter data (-1 for no node): -1
+// Enter right child of 15:
+// Enter data (-1 for no node): 20
+// Enter left child of 20:
+// Enter data (-1 for no node): -1
+// Enter right child of 20:
+// Enter data (-1 for no node): -1
+
+// Inorder Traversal: 5 7 10 15 20 
+// Preorder Traversal: 10 5 7 15 20 
+// Postorder Traversal: 7 5 20 15 10 
+
+// Enter element to search: 7
+// Found
+
