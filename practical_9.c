@@ -37,3 +37,23 @@ int main() {
 
     return 0;
 }
+// Enter number of keys to insert: 5
+// Enter 5 keys:
+// 10
+// 17
+// 24
+// 7
+// 14
+
+// Final Hash Table (index : key):
+// 0 : ---
+// 1 : ---
+// 2 : ---
+// 3 : ---
+// 4 : 24
+// 5 : 10
+// 6 : 17
+// 0 : 7
+// 1 : 14
+2 : ---
+
