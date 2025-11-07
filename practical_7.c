@@ -60,3 +60,14 @@ int main() {
 
     return 0;
 }
+// Enter number of nodes: 5
+// Enter number of edges: 4
+// Enter edge (u v): 1 2
+// Enter edge (u v): 1 3
+// Enter edge (u v): 2 4
+// Enter edge (u v): 3 5
+// Enter starting node: 1
+
+// BFS Traversal: 1 2 3 4 5 
+// DFS Traversal: 1 3 5 2 4 
+
