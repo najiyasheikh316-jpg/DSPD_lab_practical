@@ -57,5 +57,17 @@ int main() {
         printf("Result: Found at index %d\n", result);
 
     return 0;
+
 }
+// Enter value to search: 7
+// Examining value: 8 (at index 3)
+// Searching left half, adjusting end to index 2
+// Examining value: 4 (at index 1)
+// Searching right half, adjusting start to index 2
+// Examining value: 6 (at index 2)
+// Searching right half, adjusting start to index 3
+// Value not found in list.
+// Result: NULL (value not found)
+
+
 
