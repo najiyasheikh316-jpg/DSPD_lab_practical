@@ -137,3 +137,80 @@ int main() {
     }
     return 0;
 }
+// --- STACK MENU ---
+// 1. Push an Element
+// 2. Pop an Element
+// 3. Check Palindrome
+// 4. Demonstrate Overflow/Underflow
+// 5. Display Stack
+// 6. Exit
+// Enter your choice: 1
+// Enter value to push: 10
+
+// 10 pushed onto stack.
+
+// --- STACK MENU ---
+// 1. Push an Element
+// 2. Pop an Element
+// 3. Check Palindrome
+// 4. Demonstrate Overflow/Underflow
+// 5. Display Stack
+// 6. Exit
+// Enter your choice: 1
+// Enter value to push: 20
+
+// 20 pushed onto stack.
+
+// --- STACK MENU ---
+// Enter your choice: 1
+// Enter value to push: 30
+
+// 30 pushed onto stack.
+
+// --- STACK MENU ---
+// Enter your choice: 5
+
+// Current Stack:
+// 30
+// 20
+// 10
+
+// --- STACK MENU ---
+// Enter your choice: 2
+
+// 30 popped from stack.
+
+// --- STACK MENU ---
+// Enter your choice: 5
+
+// Current Stack:
+// 20
+// 10
+
+// --- STACK MENU ---
+// Enter your choice: 3
+
+// Enter a string to check palindrome: madam
+
+// m pushed onto stack.
+// a pushed onto stack.
+// d pushed onto stack.
+// a pushed onto stack.
+// m pushed onto stack.
+
+// 'madam' is a Palindrome.
+
+// --- STACK MENU ---
+// Enter your choice: 4
+
+// --- Overflow Demonstration ---
+// Stack Overflow! Cannot push 100
+
+// --- Underflow Demonstration ---
+// Stack Underflow! Nothing to pop.
+
+// --- STACK MENU ---
+// Enter your choice: 6
+
+// Exiting program...
+
