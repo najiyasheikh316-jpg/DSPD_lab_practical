@@ -136,6 +136,59 @@ int main() {
                 printf("Invalid choice! Please try again.\n");
         }
     }
+// --- BINARY SEARCH TREE MENU ---
+// 1. Search an element
+// 2. Insert an element
+// 3. Delete a leaf element
+// 4. Exit
+// Enter your choice: 2
+// Enter element to insert: 10
+// Inorder Traversal after insertion: 10 
+
+// --- BINARY SEARCH TREE MENU ---
+// Enter your choice: 2
+// Enter element to insert: 5
+// Inorder Traversal after insertion: 5 10 
+
+// --- BINARY SEARCH TREE MENU ---
+// Enter your choice: 2
+// Enter element to insert: 15
+// Inorder Traversal after insertion: 5 10 15 
+
+// --- BINARY SEARCH TREE MENU ---
+// Enter your choice: 2
+// Enter element to insert: 3
+// Inorder Traversal after insertion: 3 5 10 15 
+
+// --- BINARY SEARCH TREE MENU ---
+// Enter your choice: 1
+// Enter element to search: 15
+// Found
+
+// --- BINARY SEARCH TREE MENU ---
+// Enter your choice: 3
+// Enter leaf element to delete: 3
+// Deleting leaf node 3
+// Inorder Traversal after deletion: 5 10 15 
+
+// --- BINARY SEARCH TREE MENU ---
+// Enter your choice: 3
+// Enter leaf element to delete: 10
+// Cannot delete 10, not a leaf node!
+// Inorder Traversal after deletion: 5 10 15 
+
+// --- BINARY SEARCH TREE MENU ---
+// Enter your choice: 4
+// Exiting program...
+
+
+
+
+
+
+
+    
 
     return 0;
 }
+
