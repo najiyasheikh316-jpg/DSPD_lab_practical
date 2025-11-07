@@ -25,3 +25,20 @@ int main() {
     printf("\nSum of elements at even positions: %d\n", evenSum);
     return 0;
 }
+//Output :
+// Enter number of elements: 6
+//Enter 6 elements:
+//10 20 30 40 50 60
+// Sum of elements at odd positions: 90
+// Sum of elements at even positions: 120
+
+
+
+
+
+
+
+
+
+
+
