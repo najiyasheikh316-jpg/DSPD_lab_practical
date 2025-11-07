@@ -50,3 +50,15 @@ int main() {
 
     return 0;
 }
+// Enter integers to add to the linked list (0 to stop):
+// 10
+// 20
+// 30
+// 40
+// 0
+
+// Linked List Elements:
+// 10 => 20 => 30 => 40 => NULL
+
+// Total number of nodes: 4
+
